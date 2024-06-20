@@ -6,13 +6,13 @@ addEventListener("fetch", (event) => {
 const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
-  "docker.zfrsss.top.com": "https://registry-1.docker.io",
-  "quay.zfrsss.top.com": "https://quay.io",
-  "gcr.zfrsss.top.com": "https://gcr.io",
-  "k8s-gcr.zfrsss.top.com": "https://k8s.gcr.io",
-  "k8s.zfrsss.top.com": "https://registry.k8s.io",
-  "ghcr.zfrsss.top.com": "https://ghcr.io",
-  "cloudsmith.zfrsss.top.com": "https://docker.cloudsmith.io",
+  "docker.zfrsss.top": "https://registry-1.docker.io",
+  "quay.zfrsss.top": "https://quay.io",
+  "gcr.zfrsss.top": "https://gcr.io",
+  "k8s-gcr.zfrsss.top": "https://k8s.gcr.io",
+  "k8s.zfrsss.top": "https://registry.k8s.io",
+  "ghcr.zfrsss.top": "https://ghcr.io",
+  "cloudsmith.zfrsss.top": "https://docker.cloudsmith.io",
 };
 
 
